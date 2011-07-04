@@ -1,6 +1,6 @@
 = fib-gem
 
-Description goes here.
+Gem adds a method closest_fibonacci to Fixnum class
 
 == Contributing to fib-gem
  
