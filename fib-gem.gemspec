@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "fib-gem-0.3.0.gem",
+    "fib-gem.gemspec",
     "lib/fib-gem.rb",
     "pkg/fib-gem-0.3.0.gem",
     "test/helper.rb",
